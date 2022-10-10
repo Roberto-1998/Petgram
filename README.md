@@ -1,7 +1,16 @@
 ## curso-platzi-react-avanzado ⚛️
 
-**¡Sígueme en Youtube para más contenido de React y Javascript!** 👉 https://www.youtube.com/midudev
+### Stack Tecnológico
 
-**¡Sígueme en Twitch para streams sobre desarrollo web!** 👉 https://www.twitch.tv/midudev
+- Babel / Webpack 
+- Eslint Prettier
+- Javascript / React
+- GraphQL
+- Styled Components
+- Vercel
+- React Helmet
+- Cypress.io
+- Lighthouse
+- PWA
 
-Repositorio con el código del [Curso Avanzado de React de Platzi](https://platzi.com/cursos/react-avanzado/)
+
